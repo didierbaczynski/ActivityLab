@@ -163,7 +163,7 @@ public class ActivityTwo extends Activity {
         super.onDestroy();
 
         // TODO: Emit LogCat message
-        Log.i(TAG,"Entered the onDestory() method");
+        Log.i(TAG,"Entered the onDestroy() method");
     }
 
     @Override
